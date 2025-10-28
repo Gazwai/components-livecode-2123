@@ -1,0 +1,37 @@
+Fontawesome Icons:
+<i class="fa-solid fa-star"></i>
+<i class="fa-solid fa-heart"></i>
+
+stars color:  rgb(255, 230, 0)
+
+Page:
+
+https://www.kickstarter.com/projects/yukaienginnering/nekojita-fufu?ref=discovery_category&total_hits=54313&category_id=337
+
+Product title:
+
+Nékojita FuFu: Tiny Robot Cools Your Hot Drinks & Food
+
+Product description:
+
+Cute cat robot that blows air, so you don’t have to. Attaches to a cup/bowl or sits by a plate. Multiple blowing patterns.
+
+Product price:
+¥ 3550
+
+Product(top-photo):
+
+https://i.kickstarter.com/assets/048/418/560/9ae8f38b85d341d04d81a2114cebe7fb_original.png?fit=scale-down&origin=ugc&q=100&v=1741247699&width=680&sig=JnW5uoAJ2qtwn9xh66R7VFSoQwO9w1dbt7a6OA5zRXg%3D
+
+Video/gif (middle-photo):
+
+https://i.kickstarter.com/assets/048/889/580/d3430e7f98e6b9540a34a93d8e8b7f83_original.gif?fit=scale-down&origin=ugc&q=92&v=1744557605&width=680&sig=zXAYKCmdkJqy%2FRF414UyUPmYrhJJB1ql9s5dYDT2zqg%3D
+
+
+3 more pics(bottom-photos):
+
+https://i.kickstarter.com/assets/048/860/666/e1f07ae6d0cac4894083979416eb7fec_original.png?fit=scale-down&origin=ugc&q=100&v=1744306345&width=680&sig=i2ifBQjgb%2BikZazuoxoiZe1mBJ%2BYlhl%2F%2BqoihGLa8W4%3D
+
+https://i.kickstarter.com/assets/048/861/255/f0e091b6b8a836410014facac81ac4a7_original.png?fit=scale-down&origin=ugc&q=100&v=1744309607&width=680&sig=zO5zGcwOxKgcuO89kFLGsuROKRSsb4F%2F9nPz2QG3USk%3D
+
+https://i.kickstarter.com/assets/048/889/571/723873d8bfd270513602e5105986091e_original.gif?fit=scale-down&origin=ugc&q=92&v=1744557586&width=680&sig=JV6zA4eyr6ooPWwt4Sa60ixuaiYlnbcHZn%2FgthZ3xsM%3D
